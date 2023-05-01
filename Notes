@@ -1,0 +1,35 @@
+Notes
+
+• Useful data structures. Include basic usage, and time complexity of important
+ops. 
+    • Dynamic array
+    • Array
+    • Linked List
+    • Stack
+    • Queue
+    • Hash Table (or dict)
+    • Heap (or priority queue)
+    • Graph
+    • Binary Tree
+    • Tree
+    • AVL Tree
+    • Binary Search Tree
+
+• Useful algorithms.
+    • Binary Search Algorithm
+    • Sorting Algorithm
+        • Insertion Sort
+        • Heap Sort
+        • Counting Sort
+        • Merge Sort
+        • Bubble Sort
+        • Selection Sort
+        • Quick Sort
+    • Greedy Algorithm
+    • Hash Function
+    • BFS
+    • DFS
+    • Dijkstra's Algorithm
+    • DP
+    • Search Algorithm
+    • Floyd-Whall Algorithm
